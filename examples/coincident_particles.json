@@ -1,0 +1,20 @@
+{
+  "gravitational_constant": 2.0,
+  "time_step": 0.01,
+  "softening": 0.25,
+  "steps": 100,
+  "particles": [
+    {
+      "id": "p",
+      "mass": 1.0,
+      "position": [0.0, 0.0],
+      "velocity": [0.0, 0.0]
+    },
+    {
+      "id": "q",
+      "mass": 3.0,
+      "position": [0.0, 0.0],
+      "velocity": [0.0, 0.0]
+    }
+  ]
+}

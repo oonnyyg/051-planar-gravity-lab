@@ -1,0 +1,14 @@
+{
+  "gravitational_constant": 1.0,
+  "time_step": 0.01,
+  "softening": 0.1,
+  "steps": 200,
+  "particles": [
+    {
+      "id": "lone",
+      "mass": 1.0,
+      "position": [0.0, 0.0],
+      "velocity": [1.0, 0.5]
+    }
+  ]
+}
