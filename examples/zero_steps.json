@@ -1,0 +1,20 @@
+{
+  "gravity_constant": 6.6743e-11,
+  "time_step": 1.0,
+  "softening_length": 1.0,
+ "steps": 0,
+  "particles": [
+    {
+      "id": "earth",
+      "mass": 5.972e24,
+      "position": [0.0, 0.0],
+      "velocity": [0.0, 0.0]
+    },
+    {
+      "id": "moon",
+      "mass": 7.342e22,
+      "position": [3.844e8, 0.0],
+      "velocity": [0.0, 1022.0]
+    }
+  ]
+}

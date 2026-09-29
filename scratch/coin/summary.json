@@ -1,0 +1,24 @@
+{
+  "final_angular_momentum": 0.0,
+  "final_momentum": [
+    0.07500000000000002,
+    -0.15000000000000005
+  ],
+  "final_time": 1.0,
+  "final_total_energy": -11.230979995485598,
+  "gravity_constant": 2.0,
+  "initial_angular_momentum": 0.0,
+  "initial_momentum": [
+    0.07500000000000001,
+    -0.15000000000000002
+  ],
+  "initial_time": 0.0,
+  "initial_total_energy": -11.23125,
+  "max_abs_angular_momentum_change": 0.0,
+  "max_abs_energy_change": 0.006593321460744761,
+  "max_momentum_drift": 3.1031676915590914e-17,
+  "particle_count": 2,
+  "softening_length": 0.2,
+  "steps": 20,
+  "time_step": 0.05
+}

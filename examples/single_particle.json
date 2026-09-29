@@ -1,0 +1,14 @@
+{
+  "gravity_constant": 1.0,
+  "time_step": 0.1,
+  "softening_length": 0.01,
+  "steps": 10,
+  "particles": [
+    {
+      "id": "solo",
+      "mass": 1.0,
+      "position": [0.0, 0.0],
+      "velocity": [1.0, 0.5]
+    }
+  ]
+}
